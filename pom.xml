@@ -1,0 +1,27 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>net.ja731j.bukkit</groupId>
+    <artifactId>bukkit-plugin-simple</artifactId>
+    <version>1.0.0</version>
+    <packaging>jar</packaging>
+  
+    <name>Bukkit-Plugin-Simple</name>
+    <description>A Maven archetype which creates a simple Bukkit plugin</description>
+    <url>https://github.com/jetkiwi/Bukkit-Plugin-Simple</url>
+
+    <licenses>
+        <license>
+            <name>MIT license</name>
+            <url>http://www.opensource.org/licenses/mit-license.php</url>
+        </license>
+    </licenses>
+
+    <scm>
+        <url>https://github.com/jetkiwi/Bukkit-Plugin-Simple</url>
+        <connection>scm:git:git://github.com/jetkiwi/Bukkit-Plugin-Simple.git</connection>
+        <developerConnection>scm:git:git@github.com:jetkiwi/Bukkit-Plugin-Simple.git</developerConnection>
+    </scm>
+    
+</project>

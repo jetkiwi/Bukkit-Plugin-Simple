@@ -1,0 +1,12 @@
+name: ${artifactId}
+version: ${version}
+description: This is a simple Bukkit Plugin
+author: ${author}
+
+main: ${groupId}.${artifactId}.Main
+
+commands:
+  Hello:
+    description: Shows a hello message to the player
+    usage: |
+      /<command> shows a hello message to the player
