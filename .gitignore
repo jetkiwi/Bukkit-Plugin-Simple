@@ -21,6 +21,9 @@ local.properties
 .settings/
 .loadpath
 
+#NetBeans
+nbactions.xml
+
 # CDT-specific
 .cproject
 
@@ -40,5 +43,8 @@ Desktop.ini
 
 #vim
 .*.sw[a-p]
+
+#release-plugin
+release.properties
 
 /true
