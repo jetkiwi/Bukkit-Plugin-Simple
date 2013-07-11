@@ -3,7 +3,7 @@
 
     <groupId>net.ja731j.bukkit</groupId>
     <artifactId>bukkit-plugin-simple</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
     <packaging>jar</packaging>
   
     <name>Bukkit-Plugin-Simple</name>
