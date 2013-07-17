@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package ${groupId}.${artifactId};
+package ${package};
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
